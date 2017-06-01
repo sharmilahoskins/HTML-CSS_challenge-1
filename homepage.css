@@ -3,8 +3,7 @@
   color: black;
 }
 #box{
-  background-color: #f2f4f7;
-  opacity: 0.5;
+  background-color: rgba(200,200,200,0.5);
   width: 600px;
   margin: auto;
   margin-top: 200px;
@@ -16,7 +15,7 @@
 #homepage{
   height: 100%;
   width: 100%;
-  background-image: url(/Users/learn/Desktop/learn_logo_new.jpg);
+  background-image: url(/Users/learn/Desktop/Test_Folder_HD/learn_logo_new.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
