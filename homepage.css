@@ -15,7 +15,7 @@
 #homepage{
   height: 100%;
   width: 100%;
-  background-image: url(/Users/learn/Desktop/Test_Folder_HD/learn_logo_new.jpg);
+  background-image: url(./learn_logo_new.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
